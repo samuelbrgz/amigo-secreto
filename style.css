@@ -51,6 +51,13 @@ body {
     padding: 20px;
     width: 100%;
 }
+p{
+    color: #05DF05;
+    font-size: 20px;
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
 
 /* Títulos */
 .main-title {
